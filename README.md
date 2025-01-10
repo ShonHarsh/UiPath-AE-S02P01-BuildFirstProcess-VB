@@ -2,7 +2,7 @@
 
 # S02P01 Build First Process
 
-This **VB** project is my solution to the **Building The Process** practice found in section 02 practice 01 fo the UiPath - Automation Explorer course.
+This **VB** project is my solution to the **Building The Process** practice found in section 02 practice 01 for the UiPath - Automation Explorer course.
 
 ### Getting Started
 
